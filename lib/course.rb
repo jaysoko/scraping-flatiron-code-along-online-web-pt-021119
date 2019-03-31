@@ -2,8 +2,5 @@ class Course
 
 
 
-
-
-
 end
 
